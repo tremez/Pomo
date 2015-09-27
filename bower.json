@@ -1,0 +1,33 @@
+{
+  "name": "pomo",
+  "description": "Pomo is a JS library to process GNU gettext files (.po .mo)",
+  "main": [
+    "js/dist/pomo.js"
+  ],
+  "keywords": [
+    "pomo",
+    "pomo.js",
+    "gettext",
+    "translation"
+  ],
+  "authors": [
+    "Taras Remez <taras.remez@telix.com.ua>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tremez/Pomo.git"
+  },
+  "version": "0.0.1",
+  "homepage": "https://github.com/tremez/Pomo",
+  "moduleType": [
+    "globals"
+  ]
+}
